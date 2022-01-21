@@ -1,0 +1,13 @@
+Comandos Git Bash:
+- git init: inicia um repositório git
+- git clone: clona um repositório
+- git add: grava alterações
+- git status: Verifica o status
+- git pull: puxa alterações do repositório remoto para o repositório local
+- git push: empurra os commits para o repositório remoto
+- git checkout: muda de branch
+- git branch: cria um branch
+- git rm: remove arquivos
+- git mv: move arquivos
+- git commit: move as mudanças para o remoto (usar -m, para mensagem do commit)
+- git diff: verifica mudanças
